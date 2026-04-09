@@ -25,8 +25,9 @@ When the user provides a script, hook, caption, or video concept:
    |-----------|-----------------|
    | Ideal Viewer Clarity | Is it clear WHO this is for? One specific person, not a demographic. |
    | Idea Strength | Is the core idea screenshot-worthy? Has this concept been market-validated? |
-   | Hook Quality | Does the first line create an open loop, make a bold promise, or trigger curiosity? |
-   | Structure & Pacing | Is it dense? Does it serve one funnel stage? Any dead air? |
+   | Hook Quality | Does the first line create an open loop in 3-8 words? Bold promise or curiosity trigger? |
+   | Script Structure | Does it follow HOOK + STORY [SETUP + JOURNEY] + CTA? Is there a clear story type? Are word counts within target for duration? |
+   | Pacing & Funnel | Is it dense? Does it serve one funnel stage? Any dead air? |
    | Authenticity | Does it show real vulnerability or just polished expertise? |
    | Value Delivery | Is the value actionable right now? Does every point pass the "so what" test? |
    | CTA Strategy | Does the CTA match the goal? Is it naturally integrated? |

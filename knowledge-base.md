@@ -47,6 +47,9 @@ The idea matters more than the hook, more than the storytelling, more than the e
 
 If the hook doesn't land, nothing else matters. First 3 seconds decide everything.
 
+### Hook length rule
+**Keep hooks between 3-8 words.** The hook is a door, not a hallway. Get in, create the open loop, move on.
+
 ### Proven hook patterns (ranked by observed engagement)
 
 | Pattern | Example | Why it works | Source engagement |
@@ -59,15 +62,78 @@ If the hook doesn't land, nothing else matters. First 3 seconds decide everythin
 | Credibility stack | "I've helped many students go viral, here are the takeaways" | Establishes trust immediately | 16 likes (new post) |
 | Smart vs. dumb framing | "The dumb creators do nothing, but the smart creators..." | Nobody wants to be in the dumb category | 2.3K likes |
 
+### Hook templates (plug-and-play)
+- "So I heard that if you..." — curiosity + hearsay framing
+- "I will never understand..." — strong opinion, invites agreement/debate
+- "I tried [crazy thing] for [time]" — experiment format, built-in narrative
+- "Is it possible to [X]?" — open question, viewer needs the answer
+- "In the next 60 seconds, I'm going to completely rewire how you think about [X]" — bold time-bound promise
+- "I hate [X]" — polarizing, forces a reaction
+- "If you're a [specific identity]..." — viewer self-selects instantly
+
 ### Hook red flags
 - Starts with "Hey guys" or "So today I want to talk about" — delete and start with the value
 - Takes more than 5 seconds to get to the promise — tighten it
+- Hook is longer than 8 words — trim it down
 - Doesn't create an open loop or unanswered question — viewer needs a reason to stay
 - Tells the viewer what to do before earning trust — they don't know you yet
 
 ---
 
-## 4. Structure & Pacing
+## 4. Script Structure
+
+Every short-form script follows one master framework: **HOOK + STORY [SETUP + JOURNEY] + CALL-TO-ACTION**
+
+The goal of every script is to **shift a belief.** If the viewer thinks the same thing before and after watching, the video failed.
+
+### Word count targets
+Use these as guardrails when scripting — going over means you're padding, going under means you might be too thin:
+
+| Duration | Word count | Notes |
+|----------|-----------|-------|
+| 60s | 120-180 words | Tight, single-idea delivery |
+| 90s | 220-230 words | Room for one story + framework |
+| 120s | 300-360 words | Full narrative arc possible |
+
+### Story ideas (pick one per video)
+Every video needs a story engine. Choose one:
+
+1. **Change** — something shifted in your world
+2. **Transformation** — before/after with proof
+3. **Lesson** — what you learned the hard way
+4. **Win** — a specific result with numbers
+5. **Loss** — what went wrong and why it matters
+6. **My story** — personal origin, identity, journey
+7. **Big goal** — where you're headed and why
+
+### Story structure
+Follow the classic arc — don't skip steps:
+
+**Exposition → Rising action → Climax → Resolution**
+
+Within this arc, the script breaks into two halves:
+
+**SETUP** (the "why should I care" half):
+- Who you are + why it matters to the viewer
+- Current situation — ground the viewer in reality
+- Clear stakes/consequences — what happens if they don't act
+- Specific numbers/timeframe — vague = forgettable, specific = credible
+- Pattern interrupt moment — the thing that breaks expectations
+
+**JOURNEY** (the "what happened" half):
+- Main challenge/problem faced
+- Key obstacles — what made it hard
+- Specific numbers ($, time, dates) — anchors the story in reality
+- Real locations/people — makes it tangible
+- Unexpected twists — the thing the viewer didn't see coming
+- Building tension — each beat should raise the stakes
+
+### Storytelling formats (pick one)
+The format shapes how the story is delivered visually:
+
+1. **Voiceover** — narration over footage, more produced feel
+2. **Shot/angle change** — direct-to-camera with visual variety to maintain attention
+3. **Audio + B-roll + Text** — layered format, highest production but highest retention
 
 ### Funnel stage clarity
 Every script should serve ONE funnel stage:
@@ -151,6 +217,8 @@ Strengths make people like you. Weaknesses make people love you. This is the dif
 | Audience growth | Follow CTA | "Follow for more" | When the video teases upcoming content |
 | Trust building | No CTA / pure value | Just end with the insight | When you want depth of connection over metrics |
 | Community building | Inspirational / conversational | "Drop what you've been doing with AI" | When you want discussion, not leads |
+| Reaction bait | Emoji/identity prompt | "Drop a [emoji] if..." | When you want fast, low-friction engagement |
+| Shared experience | Relatability prompt | "Comment if you've ever..." | When the video hits a universal feeling |
 
 ### CTA rules
 - **Plant it mid-video, close it at the end.** Double mention massively outperforms single end-card CTA. (Mino Lee's double CTA → 33K comments)
@@ -176,6 +244,9 @@ Strengths make people like you. Weaknesses make people love you. This is the dif
 - [ ] **Hook:** Does the first sentence create an open loop or make a bold promise?
 - [ ] **Trust before instruction:** Are you earning credibility before telling them what to do?
 - [ ] **"Don't" > "Do":** Can any "do this" advice be reframed as "stop doing this"?
+- [ ] **Story engine:** Does the script have a clear story type (change, transformation, lesson, win, loss, my story, big goal)?
+- [ ] **Setup + Journey:** Does the story have clear stakes, specific numbers, and building tension?
+- [ ] **Word count:** Is the script within the target range for its duration?
 - [ ] **Funnel clarity:** Is this clearly top/middle/bottom of funnel — not all three?
 - [ ] **Vulnerability:** Does this show something real, not just a highlight reel?
 - [ ] **Density:** Can you cut 20% of the words without losing value?
