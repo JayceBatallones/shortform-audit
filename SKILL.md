@@ -64,6 +64,7 @@ When the user provides a script, hook, caption, or video concept:
 ## Important Rules
 
 - **Always read `knowledge-base.md` before every audit.** It changes over time. Don't rely on cached knowledge.
+- **When rewriting hooks**, consult `viral-hooks-library.md` for 1,000+ proven hook templates organized by category (Educational, Comparison, Myth Busting, Storytelling, Authority, Day in the Life). Match the hook template to the script's content type and funnel stage.
 - **Quote the script back** when pointing out issues. "Your hook is weak" is useless. "Your opening 'Hey guys, today I want to talk about...' kills retention because..." is useful.
 - **Be direct, not diplomatic.** This is a critique tool. Sugarcoating defeats the purpose.
 - **Prioritize fixes by impact.** Hook > Idea > Structure > CTA > everything else. Don't bury the lead.
@@ -83,9 +84,10 @@ The knowledge base grows over time. When new reels are analyzed (via the `instag
 
 ```
 shortform-audit/
-├── SKILL.md              ← this file (skill definition)
-├── knowledge-base.md     ← the audit criteria (living document)
-├── CONTRIBUTING.md       ← how to add new patterns
+├── SKILL.md                  ← this file (skill definition)
+├── knowledge-base.md         ← the audit criteria (living document)
+├── viral-hooks-library.md    ← 1,000+ plug-and-play hook templates by category
+├── CONTRIBUTING.md           ← how to add new patterns
 ├── LICENSE
-└── README.md             ← public-facing docs
+└── README.md                 ← public-facing docs
 ```
