@@ -18,14 +18,14 @@ When you share a script, hook, caption, or video idea, shortform-audit:
 ## Install
 
 ```bash
-claude install-skill /path/to/shortform-audit
+npx skills add JayceBatallones/shortform-audit
 ```
 
-Or clone and install from GitHub:
+Or install from a local clone:
 
 ```bash
-git clone <repo-url>
-claude install-skill ./shortform-audit
+git clone https://github.com/JayceBatallones/shortform-audit.git
+npx skills add ./shortform-audit
 ```
 
 ## Usage
